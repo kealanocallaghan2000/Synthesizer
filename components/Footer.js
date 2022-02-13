@@ -12,7 +12,7 @@ const FooterSection = styled.div`
 const Footer = () => {
   return (
     <FooterSection>
-      <p>Next 2021 all rights reserved</p>
+      
     </FooterSection>
   )
 }

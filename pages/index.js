@@ -6,13 +6,13 @@ const Hero = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #fff;
+  background: #000;
 
 `;
 
 const Heading = styled.h1`
-  color: #000;
-  font-size: 10rem;
+  color: #fff;
+  font-size: 4rem;
   font-weight: 900;
 
 `
@@ -27,6 +27,10 @@ export default function Home() {
       <Hero>
         <Heading>Home</Heading>
       </Hero>
+      <center>
+      <a><img src="https://i.ibb.co/HqJdpcJ/synth.png" alt="synth" border="0"/></a>  
+      </center>
+
     </>
   )
 }
