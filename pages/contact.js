@@ -17,15 +17,15 @@ const Heading = styled.h1`
 
 `
 
-export default function Home() {
+export default function Contact() {
   return (
     <>
       <Head>
-        <title>Home</title>
+        <title>Contact</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Hero>
-        <Heading>Home</Heading>
+        <Heading>Contact</Heading>
       </Hero>
     </>
   )
