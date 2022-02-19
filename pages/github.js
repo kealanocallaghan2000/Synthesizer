@@ -26,26 +26,29 @@ const Para = styled.p`
 
 `
 
-export default function Download() {
+const Header = styled.h2`
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 600;
+  justify-content: center;
+  align-items: center;
+
+`
+
+export default function Github() {
   return (
     <>
       <Head>
-        <title>Download</title>
+        <title>Github</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Hero>
-        <Heading>Download</Heading>
+        <Heading>Github</Heading>
       </Hero>
 
       <center>
-      <a href="https://github.com/kealanocallaghan2000/AppliedProject"><img src="https://i.ibb.co/SVF8s7j/60721.png" alt="osc" border="0" width={200} height="200" /></a>
+      <a href="https://github.com/kealanocallaghan2000/AppliedProject"><img src="https://i.ibb.co/D196ZLb/git.png" alt="osc" border="0" width={200} height="200" /></a>
       </center>
-
-      <Para>
-        <center>
-          <p>To install this plugin on your pc, download the Vst3 file and place it in your plugins folder. Refresh the plugin folder from your DAW and enjoy! :)</p>
-        </center>
-      </Para>
     </>
   )
 }
