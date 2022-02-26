@@ -29,6 +29,10 @@ export default function Home() {
       </Hero>
       <center>
       <a><img src="https://i.ibb.co/HqJdpcJ/synth.png" alt="synth" border="0"/></a>  
+
+      </center>
+      <center>
+      <iframe width="600" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1222916356%3Fsecret_token%3Ds-VWb3hbHFwDx&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
       </center>
 
     </>
