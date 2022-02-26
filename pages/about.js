@@ -63,11 +63,11 @@ export default function About() {
       </Para>
 
       <center>
-      <a href="https://ibb.co/QmHWsL7"><img src="https://i.ibb.co/RH6XLfG/osc.png" alt="osc" border="0" width={200} height="140" /></a>
+      <a><img src="https://i.ibb.co/RH6XLfG/osc.png" alt="osc" border="0" width={200} height="140" /></a>
       </center>
 
       <center>
-      <a href="https://ibb.co/K5bfVvh"><img src="https://i.ibb.co/p1bM4Fw/sawave-2.jpg" alt="sawave-2" border="0"/></a>
+      <a><img src="https://i.ibb.co/p1bM4Fw/sawave-2.jpg" alt="sawave-2" border="0"/></a>
       </center>
 
       <Para>
@@ -79,7 +79,7 @@ export default function About() {
       
 
       <center>
-      <a href="https://ibb.co/FDmfQQz"><img src="https://i.ibb.co/TgYnQQt/fm.jpg" alt="fm" border="0" width={200} height="200"/></a>
+      <a><img src="https://i.ibb.co/TgYnQQt/fm.jpg" alt="fm" border="0" width={200} height="200"/></a>
       </center>
 
       
@@ -95,7 +95,7 @@ export default function About() {
       </Para>
 
       <center>
-      <a href="https://ibb.co/wpYFj0P"><img src="https://i.ibb.co/9yGkS81/filter.png" alt="fm" border="0" width={200} height="140"/></a>
+      <a><img src="https://i.ibb.co/9yGkS81/filter.png" alt="fm" border="0" width={200} height="140"/></a>
       </center>
 
       <Para>
@@ -116,7 +116,7 @@ export default function About() {
       </Para>
 
       <center>
-      <a href="https://ibb.co/wh5NmVX"><img src="https://i.ibb.co/4RhZrzG/adsr.jpg" alt="fm" border="0" width={450} height="250"/></a>
+      <a><img src="https://i.ibb.co/4RhZrzG/adsr.jpg" alt="fm" border="0" width={450} height="250"/></a>
       </center>
 
       <Header>
@@ -131,7 +131,7 @@ export default function About() {
       </Para>
 
       <center>
-      <a href="https://ibb.co/PmgGzNc"><img src="https://i.ibb.co/VjTYptg/modenv.png" alt="fm" border="0" width={300} height="200"/></a>
+      <a><img src="https://i.ibb.co/VjTYptg/modenv.png" alt="fm" border="0" width={300} height="200"/></a>
       </center>
 
 
