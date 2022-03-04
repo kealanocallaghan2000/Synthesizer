@@ -38,7 +38,7 @@ export default function Download() {
       </Hero>
 
       <center>
-      <a href="https://github.com/kealanocallaghan2000/AppliedProject"><img src="https://i.ibb.co/SVF8s7j/60721.png" alt="osc" border="0" width={200} height="200" /></a>
+      <a href="https://drive.google.com/uc?export=download&id=1VYUztG4PQrDdxAsu6fGeMuTHArawaPjw"><img src="https://i.ibb.co/SVF8s7j/60721.png" alt="osc" border="0" width={200} height="200" /></a>
       </center>
 
       <Para>
